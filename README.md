@@ -1,1 +1,2 @@
 # minecosmic
+<input type="button">
